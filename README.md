@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SiyoOgbogu
+- 👋 Hi, I’m Kamsiyo Ogbogu
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on ...
